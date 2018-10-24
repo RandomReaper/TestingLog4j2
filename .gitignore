@@ -23,7 +23,7 @@
 hs_err_pid*
 /.gradle/
 /build/
-/.classpath/
+.classpath
 /.recommenders/
 /.metadata/
 /.settings/
