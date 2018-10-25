@@ -10,7 +10,6 @@ public class Main {
 	public static void main(String args[]) {
 		log.info("Starting application");
 		System.out.println("Hello World");
-		System.err.println("huho");
 		log.debug("This is a debug message");
 		log.info("This is an info message");
 		log.warn("This is a warn message");
